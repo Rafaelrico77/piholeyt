@@ -1,7 +1,4 @@
 ###### Youtube Ad-Block-List for PiHole by Rafaelrico77 #####
-# other Domains:
-#0.0.0.0 ade.googlesyndication.com
-
 
 # *.googlevideo.com Domains:
 
