@@ -6275,3 +6275,137 @@
 0.0.0.0 r20---sn-nv47lnel.googlevideo.com
 0.0.0.0 r20.sn-nv47lnel.googlevideo.com
 #
+0.0.0.0 r1---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r1.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r2---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r2.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r3---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r3.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r4---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r4.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r5---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r5.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r6---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r6.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r7---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r7.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r8---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r8.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r9---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r9.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r10---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r10.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r11---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r11.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r12---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r12.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r13---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r13.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r14---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r14.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r15---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r15.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r16---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r16.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r17---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r17.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r18---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r18.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r19---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r19.sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r20---sn-ni5f-t8ge.googlevideo.com
+0.0.0.0 r20.sn-ni5f-t8ge.googlevideo.com
+#
+0.0.0.0 r1---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r1.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r2---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r2.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r3---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r3.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r4---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r4.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r5---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r5.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r6---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r6.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r7---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r7.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r8---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r8.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r9---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r9.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r10---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r10.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r11---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r11.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r12---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r12.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r13---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r13.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r14---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r14.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r15---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r15.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r16---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r16.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r17---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r17.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r18---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r18.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r19---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r19.sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r20---sn-ni5f-t8gl.googlevideo.com
+0.0.0.0 r20.sn-ni5f-t8gl.googlevideo.com
+#
+
+
+
+############################################
+###      gvt1.com domains                ###
+############################################
+
+
+
+
+#
+0.0.0.0 r1---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r1.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r2---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r2.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r3---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r3.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r4---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r4.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r5---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r5.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r6---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r6.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r7---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r7.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r8---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r8.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r9---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r9.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r10---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r10.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r11---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r11.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r12---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r12.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r13---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r13.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r14---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r14.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r15---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r15.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r16---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r16.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r17---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r17.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r18---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r18.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r19---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r19.sn-1gi7zn7l.gvt1.com
+0.0.0.0 r20---sn-1gi7zn7l.gvt1.com
+0.0.0.0 r20.sn-1gi7zn7l.gvt1.com
+#
